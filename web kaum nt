@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="webs galau.css">
+</head>
+<body>
+    <div class="bani">
+        <video autoplay loop muted>
+            <source src="Daun-Daun - 130924.mp4" type="audio/mp4">
+        </video>
+        
+        
+                <div class="typing">
+                    <h1>    Welcome To My Galau Channel
+                                    
+                        
+                        <h1>
+                </div>
+            <div class="arum">
+                <audio controls autoplay loop>
+                    <source src="Runtuh_zhawF9_lpM0.mp3" type="audio/mpeg">
+                </audio>
+            </div>
+                
+     </div>
+     
+    
+</body>
+</html>
