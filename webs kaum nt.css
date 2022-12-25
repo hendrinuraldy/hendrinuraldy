@@ -1,0 +1,45 @@
+
+    
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.bani {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.bani video {
+    position: relative;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.typing h1 {
+    overflow: hidden;
+    white-space: nowrap;
+    animation: typingAnim 3s steps(27);
+}
+@keyframes typingAnim {
+    from {width: 0}
+    to {width: 100%}
+}
+.arum {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+
+}
